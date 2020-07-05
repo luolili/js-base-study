@@ -3,7 +3,7 @@ var x = 1;
 if (x == 2) {
     console.log(x)
 } else {
-    //do else
+    //do el
 }
 
 var b = new Boolean(false)

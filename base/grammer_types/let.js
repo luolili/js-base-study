@@ -1,4 +1,4 @@
-//let 没有变量提升：ReferenceError
+//let声明了块作用域， 没有变量提升：ReferenceError
 console.log('a=', a1)
 let a1 = 9;
 

@@ -5,6 +5,6 @@ function makeError() {
 try {
     makeError()
 } catch (error) {
-    console.log("e.name:", error.name)
-    console.log("e.message:", error.message)
+    console.log("e.name:", error.name)//Error
+    console.log("e.message:", error.message)//error msg
 }
